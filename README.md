@@ -1,4 +1,4 @@
 # app-git
 test app
-# my commit ist
+# my commit list
 1. App.js file
